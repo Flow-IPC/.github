@@ -1,3 +1,3 @@
 # Welcome to the Flow-IPC organization
 
-Please watch this space.  A brand-new C++ project is coming very soon.
+Please watch this space.  A brand-new open-source C++ project (the eponymous Flow-IPC) is coming very soon.
