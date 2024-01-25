@@ -1,12 +1,11 @@
-## Hi there 👋
+# Welcome to the Flow-IPC organization
 
-<!--
+This GitHub organization contains the Flow-IPC open-source project:
 
-**Here are some ideas to get you started:**
+**Modern C++ toolkit for high-speed inter-process communication (IPC); plus general-purpose toolkit, Flow**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+There are a few repositories, but generally you will care about one -- possibly two -- as a user:
+- [`ipc` repository](https://github.com/Flow-IPC/ipc/blob/main/README.md) - Start here.  As explained at that link, grab a Release tarball/zip; or clone via Git with submodules enabled.  That will get you all the code, including the other repositories involved.
+- [`flow` repository](https://github.com/Flow-IPC/flow/blob/main/README.md) - Some users may be interested in this general-purpose library in and of itself.  By grabbing `ipc` you'll get this anyway; but conceivably you'd like to check it out as its own thing.
+
+If you'd like to contribute, the first link above will surely explain how.
